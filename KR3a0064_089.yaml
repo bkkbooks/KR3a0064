@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0064/krp/v1/juan/89
+seq: 89
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0064_WYG_089-1a, image: WYG0708/WYG0708-0953c.png}
+body:
+  text: 黃氏日抄卷八十九宋黃震撰闕黃氏日抄卷八十九
+  hash: sha256:54231d0b9a1a198e22802ef33e55b7b3eb8c125bd02c2d8a86aff2837a8bf165
+metadata:
+  title: 黃氏日抄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:59:31.482882'
+  juan_title: 卷八十九
+  source:
+    repository: kanripo
+    path: KR3a0064/KR3a0064_089.txt
+hash: sha256:78186a65969fec6f99641fb3e69a033becb8f1910b5f6f9e8a2e8367a7ab7613

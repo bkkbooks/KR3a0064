@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0064/krp/v1/juan/92
+seq: 92
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0064_WYG_092-1a, image: WYG0708/WYG0708-0987a.png}
+body:
+  text: 黃氏日抄卷九十二宋黃震撰闕黃氏日抄卷九十二
+  hash: sha256:f2ce11a9d43ca992a4dabc1ae67d7f5d400ffe04c39f7e313085226a37f653a0
+metadata:
+  title: 黃氏日抄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:59:31.482882'
+  juan_title: 卷九十二
+  source:
+    repository: kanripo
+    path: KR3a0064/KR3a0064_092.txt
+hash: sha256:c9c68aa6677bb06e01eeeaaf77b919006e79d43f35e6059947ed5d7c609eda8e

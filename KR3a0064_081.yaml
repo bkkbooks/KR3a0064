@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0064/krp/v1/juan/81
+seq: 81
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0064_WYG_081-1a, image: WYG0708/WYG0708-0839a.png}
+body:
+  text: 黃氏日抄卷八十一宋黃震撰闕黃氏日抄卷八十一
+  hash: sha256:7f41f7c08b0213ac1a500cb693170dab10ac32102430085171787a105ff42b28
+metadata:
+  title: 黃氏日抄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:59:31.482882'
+  juan_title: 卷八十一
+  source:
+    repository: kanripo
+    path: KR3a0064/KR3a0064_081.txt
+hash: sha256:70645de41f42f77cf726babcc00c42b5c7b6bebef527c2bad1b676a62669b915
