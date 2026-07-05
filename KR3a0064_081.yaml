@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3a0064_WYG_081-1a, image: WYG0708/WYG0708-0839a.png}
 body:
-  text: 黃氏日抄卷八十一宋黃震撰闕黃氏日抄卷八十一
-  hash: sha256:7f41f7c08b0213ac1a500cb693170dab10ac32102430085171787a105ff42b28
+  text: 黄氏日抄巻八十一宋黄震撰闕黄氏日抄卷八十一
+  hash: sha256:9c64dfc58b7c64a667e7e54d580b5014646e4442113b80c10415a0253d300ea7
 metadata:
   title: 黃氏日抄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3a0064/KR3a0064_081.txt
-hash: sha256:70645de41f42f77cf726babcc00c42b5c7b6bebef527c2bad1b676a62669b915
+hash: sha256:1de12e69656d9630660dd4e55e07f45e89dced1218a6b4cc05d95e7786e3abff
