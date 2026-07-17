@@ -4038,6 +4038,7 @@ markers:
   - {type: line-break, offset: 10817, content: '', id: KR3a0064_WYG_004-44a02}
   - {type: indent, offset: 10817, content: 　　, id: KR3a0064_krp_004-bkkind590}
   - {type: punctuation, offset: 10823, content: (, id: KR3a0064_krp_004-bkkpn1}
+  - {type: voice, offset: 10823, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 10828, content: /, id: KR3a0064_krp_004-bkkpn2}
   - {type: punctuation, offset: 10828, content: ), id: KR3a0064_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 10828, content: '
@@ -4336,6 +4337,7 @@ markers:
   - {type: substitution, offset: 11621, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
   - {type: substitution, offset: 11622, original: 鍼, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16524}}
   - {type: punctuation, offset: 11625, content: (, id: KR3a0064_krp_004-bkkpn4}
+  - {type: voice, offset: 11625, length: 8, name: note, id: n2}
   - {type: substitution, offset: 11626, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 11629, content: /, id: KR3a0064_krp_004-bkkpn5}
   - {type: substitution, offset: 11631, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
@@ -6874,4 +6876,4 @@ markers:
 
       ', id: KR3a0064_krp_004-bkkkrnewl1313}
   back: []
-hash: sha256:f4a9416f66c7898b719d4be9fbb1d0ce239f092f37afcad424ded540800e3e5a
+hash: sha256:c260d44605e050efe299915ee08e08f0648ca35bac9009530137a5e0508e86af
